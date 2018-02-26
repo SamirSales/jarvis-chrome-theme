@@ -8,7 +8,7 @@
         "images" : {
                 "theme_frame" : "img/frame.png",
                 "theme_toolbar" : "img/toolbar.png",
-                "theme_ntp_background" : "img/background_2.png",
+                "theme_ntp_background" : "img/background_3.jpg",
                 "theme_tab_background" : "img/tab.png",
                 "theme_ntp_attribution": "img/ntp_attribution.png"
         },
@@ -16,8 +16,8 @@
         "colors" : {
                 "ntp_link": [0,225,225],
                 "ntp_text": [0,225,225],
-                "ntp_section_link": [155,0,255],
-                "ntp_section_text": [155,255,0],
+                "ntp_section_link": [0,255,255],
+                "ntp_section_text": [0,255,255],
 
                 "ntp_background": [0 , 0 , 0],
                 "frame": [0,19,19], 
@@ -35,7 +35,7 @@
         },
 
         "properties" : {
-                "ntp_background_alignment" : "bottom",
+                "ntp_background_alignment" : "center",
                 "ntp_background_repeat": "no-repeat"
         }
   }
