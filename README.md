@@ -1,7 +1,7 @@
 # Jarvis Chrome Theme
-It's a Chrome theme that leaves browser graphics look like Jarvis (Tony Stark's computer)
+It's a Chrome theme that makes the browser graphics look like Jarvis (Tony Stark's computer)
 
-## How to use
+## How to install
 1. Download the project
 2. Open your Chrome and access the link: _“chrome://extensions”_
 3. Enable "Developer Mode"
